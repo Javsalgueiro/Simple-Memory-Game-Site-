@@ -6,7 +6,7 @@ Submitted by: JAVIER SALGUEIRO
 
 Time spent: 6 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/beryl-hazel-warbler
+Link to project: https://glitch.com/edit/#!/beryl-hazel-warbler 
 
 ## Required Functionality
 
@@ -45,16 +45,20 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
+  - I used websites like w3school, stackoverflow, and javascriptutorial.net.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+  - One of the biggest challenges that I found doing this work is that I had very little experience working with HTML and I would say that it is the first time that I work with CSS and Javascript. The syntax is different and I had to figure out quite a bit for the logic I had in mind to make sense for the program as well. Many times certain lines of code that you thought made sense really didn't make much sense, especially when you had to integrate with HTML. At times I forgot that certain objects within my code were also part of HTML and had to be updated there so that the user could see the corresponding changes. Although many times I was very close to having the correct answer, it was a bit frustrating not being able to deduce exactly what I was missing and that is where the research came into play. I feel that research is a fundamental part of any developer's life and it's a very good skill to have especially since we can't know everything.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+  - Without a doubt, the biggest unknowns that I have at this time of web development are about the styling of objects and the web page in general. I feel that CSS is a very important aspect for the user experience and without a doubt I would like to reinforce this aspect in order to have a more complete work that in turn is aesthetically pleasing for users. I would not only like to learn more concepts about CSS but also how it can be implemented more efficiently to achieve better results.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+  - If I had had more time to work on this project I would have liked to add a couple more things to it. One of them would be a timer that would make the user feel a bit of urgency and thus generate an extra layer of difficulty in the game. At the same time I would also add a selection of buttons where you could choose the difficulty levels and with each difficulty level the game configuration would change. I would add that in the functional part or backend of the game. I would also like to be able to improve the graphic part of the game, the whole aesthetic issue that I consider is very important for the user experience.
 
 
 
