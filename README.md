@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://github.com/Javsalgueiro/Simple-Memory-Game-Site-/blob/main/SITE%20Game%20GIF.gif)
+![](LINKLINK)
 
 ## Reflection Questions
 
@@ -63,7 +63,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/682370edbcf34706bb8eb45c18cca655)
 
 ## License
 
